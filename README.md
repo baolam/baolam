@@ -7,7 +7,7 @@ Researcher, AI, DL, Web
 I'm deeply passionate about the concept of the Informative Atom — how something that seems strange can reveal such beauty. To me, code is a form of art; watching it work is incredibly calming and fulfilling
 
 * 🌍  I'm based in Vietnam
-* ✉️  You can contact me at [lam01662052827@gmail.com, nguyenducbaolam.c2@gmail.com](mailto:lam01662052827@gmail.com, nguyenducbaolam.c2@gmail.com)
+* ✉️  You can contact me at [lam01662052827@gmail.com, nguyenducbaolam.c2@gmail.com](mailto:lam01662052827@gmail.com, nguyenducbaolam.cs@gmail.com)
 * 🧠  I'm learning Pytorch, Research's skills, Python
 
 ### Skills
