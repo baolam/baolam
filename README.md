@@ -66,12 +66,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=baolam&theme=radical&no-frame=true&no-bg=true&margin_w=4" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baolam&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -84,10 +82,22 @@
 
 ---
 
-### ⭐ Featured Project
+### ⭐ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/baolam/informative-atom">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=baolam&repo=informative-atom&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Informative Atom" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="left">
+        ⚛️ <a href="https://github.com/baolam/informative-atom"><b>informative-atom</b></a>
+      </h3>
+      <p align="left">
+        <i>Exploring how something seemingly strange reveals profound beauty through code and art.</i>
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Deep Learning" />
+        <img src="https://img.shields.io/badge/Status-Active-0891b2?style=flat-square" alt="Status" />
+      </p>
+    </td>
+  </tr>
+</table>
