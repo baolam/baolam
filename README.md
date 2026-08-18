@@ -66,13 +66,15 @@ I'm deeply passionate about the concept of the **Informative Atom** — how some
 
 ### 📊 GitHub Activity
 
+### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baolam&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="baolam's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=baolam&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="baolam's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baolam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="baolam's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baolam&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=baolam&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -81,6 +83,7 @@ I'm deeply passionate about the concept of the **Informative Atom** — how some
 
 <p align="center">
   <a href="https://github.com/baolam/informative-atom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=baolam&repo=informative-atom&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Informative Atom" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=baolam&repo=informative-atom&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Informative Atom" />
   </a>
 </p>
+---
